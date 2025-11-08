@@ -24,8 +24,7 @@ Saat ini saya aktif membangun proyek AI seperti **AI Cuaca Pro Chat**, aplikasi 
 ---
 
 ## 📫 Hubungi Saya
-- ✉️ Email: **[tambahkan email kamu di sini]**
-- 💼 LinkedIn: *(opsional, kalau sudah punya)*
+- ✉️ Email: **benisiswanto9147@gmail.com**
 - 🌍 GitHub: [https://github.com/benn72-tech](https://github.com/benn72-tech)
 
 ---
